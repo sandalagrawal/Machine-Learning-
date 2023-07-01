@@ -1,0 +1,5 @@
+Standardization is a scaling technique, used to scale values so that they lie within a specific range and do not hinder the performance of various ML models. 
+
+from sklearn.preprocessing import StandardScaler
+
+this is the command used! 
