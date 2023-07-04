@@ -1,0 +1,2 @@
+In this, we will try to see the types of encoding used to convert categorical columns to numeric ones.
+While building ML model, models only accept numeric values to train. Therefore, we use encoding to convert categorical col to numeric ones.
