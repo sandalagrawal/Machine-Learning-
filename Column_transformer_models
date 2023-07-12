@@ -1,0 +1,2 @@
+Mostly the values of columns are transformed to get a normal distribution. 
+here two kinds of transformers : functional transformers and power transformers are being used to get distribution as normal.
