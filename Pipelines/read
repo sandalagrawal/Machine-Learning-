@@ -1,0 +1,4 @@
+Pipelines in ML are used to sum up the model in a particular sequence. pipelines chains together multiple steps so that the output of each step is used as input to next step.
+Using pipelines makes the production part easier. Simply dump the pipeline in using pickle and load it in production code. 
+now if, we need to make any changes in the model code or the transformers used, then simply change the model code, dump the pipe again and import the new pipe file in the production code.
+This process removes the hassle to make changes in the production code while deployment. 
