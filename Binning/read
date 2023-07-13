@@ -1,3 +1,6 @@
 Binning is a process in which we try to convert numerical values to categorical values.
 IN this, we try to put the continuous numerical value in intervals/bins.
 this helps increase the spread of the data
+there are two ways:
+Discretization
+Binarization
