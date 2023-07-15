@@ -1,0 +1,1 @@
+In order to handle mixed variables ( ones that contain num and cat values both), we mainly make use of pandas fxns in order to achieve this.
