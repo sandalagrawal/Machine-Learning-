@@ -1,0 +1,2 @@
+We know that our ML models, especially sklearn library does not work well with missing data. therefore it is very important to handle missing data.
+there are various ways we can use to handle missing data and we will learn that in this.
