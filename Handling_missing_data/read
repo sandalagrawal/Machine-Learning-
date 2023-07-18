@@ -1,0 +1,6 @@
+In ML models, it is very important to handle missing data as ML models do not work well with missing data.
+There are two ways to handle missing data: 
+either to remove it ( CCA)
+OR to impute it ( Simple imputation)
+
+imputation has various techniques involved which we will look in this module.
