@@ -1,0 +1,3 @@
+Outliers mostly hinder the performace of our models. therefore it becomes crucial to detect and handle outliers.
+there are two ways to handle outliers: either by TRIMMING ( removal of outliers) or by CAPPING ( filling those outliers with threshold values.)
+there are various ways to detect and find outliers in our data which we will study in this.
