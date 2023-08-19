@@ -1,0 +1,3 @@
+Here, we deal with polynomial linear regresssion.
+It is used when our data is non-linear or non-convex 
+we try to add polynomial terms in our regression equation so that we can fit our non-linear data.
