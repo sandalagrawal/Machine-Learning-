@@ -1,0 +1,5 @@
+regularization is one of the techniques used to achieve bias - variance trade off. 
+There are three types of regularization techniques that we will look into:
+Ridge Regularization (L2)
+LASSO REgularization (L1)
+Elastic net regularization.
